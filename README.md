@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+Computer Bases Rock Paper Scissors
